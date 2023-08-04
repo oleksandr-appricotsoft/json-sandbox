@@ -1,7 +1,7 @@
 {
   "packageVisibility": [
     {
-      "requestUpdateID": 179927,
+      "id": 179927,
       "transactionReference": {
         "transId": "f36ff359-de31-464e-adf3-da1a5579b91a"
       },
@@ -176,7 +176,7 @@
       }
     },
     {
-      "requestUpdateID": 179928,
+      "id": 179928,
       "transactionReference": {
         "transId": "f36ff359-de31-464e-adf3-da1a5579b91b"
       },
