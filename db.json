@@ -178,23 +178,23 @@
     {
       "id": 179928,
       "transactionReference": {
-        "transId": "f36ff359-de31-464e-adf3-da1a5579b91b"
+        "transId": "f36ff359-de31-464e-adf3-da1a5579b91c"
       },
       "response": {
         "currentLocalDateTime": "08/04/2023 09:49:47",
         "privateAccessPointID": 179928,
-        "totalNumberOfPackages": 5,
-        "areMorePackagesAvailable": false,
+        "totalNumberOfPackages": 2,
+        "areMorePackagesAvailable": true,
         "packageVisibility": [
           {
-            "number": "1Z1271220307125297",
+            "number": "1Z1271220302273743",
             "vendor": "ups",
             "client": {
               "name": "",
               "surname": "",
               "country": "GB"
             },
-            "status": "CAN_ACCEPT_FROM_COURIER",
+            "status": "RETURN",
             "documentsRequired": false,
             "pinRequired": false,
             "onlyForAdult": false,
@@ -203,55 +203,7 @@
             "addedAt": "26/07/2023 13:28"
           },
           {
-            "number": "1Z1271220307121086",
-            "vendor": "ups",
-            "client": {
-              "name": "",
-              "surname": "",
-              "country": "GB"
-            },
-            "status": "CAN_ACCEPT_FROM_COURIER",
-            "documentsRequired": false,
-            "pinRequired": false,
-            "onlyForAdult": false,
-            "onlyForAddressee": false,
-            "pieces": null,
-            "addedAt": "26/07/2023 13:28"
-          },
-          {
-            "number": "1Z1271220307124216",
-            "vendor": "ups",
-            "client": {
-              "name": "",
-              "surname": "",
-              "country": "GB"
-            },
-            "status": "CAN_ACCEPT_FROM_COURIER",
-            "documentsRequired": false,
-            "pinRequired": false,
-            "onlyForAdult": false,
-            "onlyForAddressee": false,
-            "pieces": null,
-            "addedAt": "26/07/2023 13:28"
-          },
-          {
-            "number": "1Z1271220307123520",
-            "vendor": "ups",
-            "client": {
-              "name": "",
-              "surname": "",
-              "country": "GB"
-            },
-            "status": "CAN_ACCEPT_FROM_COURIER",
-            "documentsRequired": false,
-            "pinRequired": false,
-            "onlyForAdult": false,
-            "onlyForAddressee": false,
-            "pieces": null,
-            "addedAt": "26/07/2023 13:28"
-          },
-          {
-            "number": "1ZX5R5486809861934",
+            "number": "1Z1271220304193424",
             "vendor": "ups",
             "client": {
               "name": "",
@@ -267,7 +219,70 @@
             "addedAt": "26/07/2023 13:28"
           }
         ],
-        "requestUpdateID": null
+        "requestUpdateID": 179929
+      }
+    },
+    {
+      "id": 179929,
+      "transactionReference": {
+        "transId": "f36ff359-de31-464e-adf3-da1a5579b91c"
+      },
+      "response": {
+        "currentLocalDateTime": "08/04/2023 09:49:47",
+        "privateAccessPointID": 179928,
+        "totalNumberOfPackages": 3,
+        "areMorePackagesAvailable": false,
+        "packageVisibility": [
+          {
+            "number": "1Z1271220304193433",
+            "vendor": "ups",
+            "client": {
+              "name": "",
+              "surname": "",
+              "country": "GB"
+            },
+            "status": "RETURN",
+            "documentsRequired": false,
+            "pinRequired": false,
+            "onlyForAdult": false,
+            "onlyForAddressee": false,
+            "pieces": null,
+            "addedAt": "26/07/2023 13:28"
+          },
+          {
+            "number": "1Z1271220304193442",
+            "vendor": "ups",
+            "client": {
+              "name": "",
+              "surname": "",
+              "country": "GB"
+            },
+            "status": "RETURN",
+            "documentsRequired": false,
+            "pinRequired": false,
+            "onlyForAdult": false,
+            "onlyForAddressee": false,
+            "pieces": null,
+            "addedAt": "26/07/2023 13:28"
+          },
+          {
+            "number": "1Z1271220304193451",
+            "vendor": "ups",
+            "client": {
+              "name": "",
+              "surname": "",
+              "country": "GB"
+            },
+            "status": "RETURN",
+            "documentsRequired": false,
+            "pinRequired": false,
+            "onlyForAdult": false,
+            "onlyForAddressee": false,
+            "pieces": null,
+            "addedAt": "26/07/2023 13:28"
+          }
+        ],
+        "requestUpdateID": 179930
       }
     }
   ],
